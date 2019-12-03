@@ -1,2 +1,6 @@
 Hi! I'm Alice. I'm a file added to repository a while ago.
+<<<<<<< Updated upstream
 2
+=======
+11111111
+>>>>>>> Stashed changes
