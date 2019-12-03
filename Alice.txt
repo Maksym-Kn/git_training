@@ -1,2 +1,2 @@
 Hi! I'm Alice. I'm a file added to repository a while ago.
-New line
+Second line
